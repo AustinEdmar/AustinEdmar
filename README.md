@@ -23,6 +23,6 @@
   <a href = "mailto:austinedmar@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/austin-edmar-1888a8200/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/AustinEdmar/AustinEdmar/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/AustinEdmar/AustinEdmar/blob/output/github-contribution-grid-snake.svg)
 
 </div>
