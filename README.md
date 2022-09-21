@@ -38,15 +38,6 @@
 </a>
 </p> -->
 
-<!-- <p align="center">
-  <img width="36%" src="profile-summary-card-output/github/1-repos-per-language.svg" />
-  <img width="36%" src="profile-summary-card-output/github/2-most-commit-language.svg" />
-  <img width="24.3%" src="profile-summary-card-output/github/3-stats.svg" />
-</p> -->
-
-<!-- <img width="100%" src="https://github.com/GuillaumeFalourd/GuillaumeFalourd/blob/main/github-metrics.svg" /> -->
-<!-- ![Metrics](https://github.com/GuillaumeFalourd/GuillaumeFalourd/blob/main/metrics.plugin.achievements.svg) -->
-
  
   ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
  
